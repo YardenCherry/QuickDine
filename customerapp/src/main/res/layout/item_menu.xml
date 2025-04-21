@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#eeeeee"
+    android:layout_marginBottom="8dp"
+    android:elevation="4dp">
+
+    <TextView
+        android:id="@+id/textName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="שם מנה"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="תיאור של המנה"
+        android:textSize="14sp"
+        android:layout_marginTop="4dp" />
+
+    <TextView
+        android:id="@+id/textPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="₪45.00"
+        android:textSize="16sp"
+        android:textColor="#00796B"
+        android:layout_marginTop="6dp" />
+
+    <Button
+        android:id="@+id/buttonAddToOrder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="➕ הוסף להזמנה"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>
