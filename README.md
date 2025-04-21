@@ -34,6 +34,22 @@ This project was created as part of **Exercise 1**, and consists of **two Androi
 
 
 
+## Waiter App Screens:
+<img src = "https://github.com/user-attachments/assets/4434c66e-1f33-408b-b57f-2f378013ca51" alt= mainScreen width= "215" height="430">
+
+<img src = "https://github.com/user-attachments/assets/5d6dccbc-e3d3-4e0c-8800-53f9612776b1" alt= mainScreen width= "215" height="430">
+
+<img src = "https://github.com/user-attachments/assets/f25a5398-99e7-41bf-ab69-223d748467c3" alt= mainScreen width= "215" height="430">
+
+ ## Video
+
+
+https://github.com/user-attachments/assets/56e46e90-9c66-4c25-b82d-5e3620374721
+
+
+ 
+
+
 
 
 
